@@ -1,0 +1,10 @@
+* fixed
+
+Common Lisp fixed-point number type
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/npatrick04/fixed.git   |
+| commit  | 79ef07e  |
+| systems | fixed |
+|---------+-------------------------------------------|
+
